@@ -1,6 +1,6 @@
 # 🤖 Chatbot Using LangGraph + Groq
 
-This project is a conversational AI chatbot built using **LangGraph**, **LangSmith**, **LangChain**, and **Groq** (powered by the `mixtral-8x7b-32768` model). The chatbot supports memory, multi-turn dialogue, and structured logic flow for tasks like writing help, profile building, and creative conversations.
+This project is a conversational AI chatbot built using **LangGraph**, **LangSmith**, **LangChain**, and **Groq** (powered by the `Gemma2-9b-It` model). The chatbot supports memory, multi-turn dialogue, and structured logic flow for tasks like writing help, profile building, and creative conversations.
 
 ---
 
